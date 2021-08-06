@@ -5,7 +5,7 @@
 <!-- Mirrored from haretoken.finance/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Aug 2021 22:55:30 GMT -->
 <head>
 <meta charset="utf-8">
-<title>Hare Token</title>
+<title>Deedee Token</title>
 <meta content="width=device-width, initial-scale=1" name="viewport">
 <link href="css/normalize.css" rel="stylesheet" type="text/css">
 <link href="css/webflow.css" rel="stylesheet" type="text/css">
