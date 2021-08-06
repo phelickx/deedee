@@ -379,7 +379,7 @@ Join our telegram community</p>
 <h5 class="gray">TOTALY SUPPLY</h5>
 </div>
 </div>
-<div id="price-chart" data-w-id="911dc789-cd8c-3157-6ceb-b918bd87e7db" class="tokenomics-text-item">
+<!-- <div id="price-chart" data-w-id="911dc789-cd8c-3157-6ceb-b918bd87e7db" class="tokenomics-text-item">
 <div class="flex-vertical">
 <h3 id="holders" class="red is--tokenomics">30,000</h3>
 <h5 class="gray">HOLDERS</h5>
@@ -393,7 +393,7 @@ Join our telegram community</p>
 <h5 class="gray">CURRENT PRICE</h5>
 <a href="https://poocoin.app/tokens/0x4AFc8c2Be6a0783ea16E16066fde140d15979296" target="_blank" class="link">Price Chart</a>
 </div>
-</div>
+</div> -->
 </div>
 </div>
 </div>
