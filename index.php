@@ -189,19 +189,19 @@
         <!-- Left links -->
 
         <div class="d-flex align-items-center">
-          <a href="#about" class="px-3 text-white">
+          <a href="#features" class="px-3 text-white">
             Features
           </a>
-          <a href="#contact" class="px-3 text-white">
+          <a href="#roadmap" class="px-3 text-white">
             Roadmap
           </a>
-          <a type="button" href="#contact" class="px-3 text-white">
+          <a type="button" href="#roadmap" class="px-3 text-white">
             Deluxepaper
           </a>
           <a type="button" href="#contact" class="px-3 text-white">
             Audit
           </a>
-          <a type="button" href="#contact" class="btn btn-warning btn-theme me-3">
+          <a type="button" href="#how" class="btn btn-warning btn-theme me-3">
             Buy
           </a>
         </div>
@@ -238,7 +238,7 @@
       </div>
     </div>
   </header>
-  <div class="about-deedee">
+  <div class="about-deedee" id="about">
     <div class="container">
       <div class="row">
         <div class="col-md-1"></div>
@@ -265,7 +265,7 @@
       </div>
     </div>
   </div>
-  <div class="services d-flex justify-content-center">
+  <div class="services d-flex justify-content-center" id="features">
     <br>
     <br>
     <br>
@@ -275,7 +275,9 @@
         <div class="col-md-10">
 
           <div class="row">
+            <h1>$DeeDee great features</h1>
             <div class="col-md-4">
+               
               <br>
               <br>
               <div class="card">
@@ -385,7 +387,7 @@
     <br>
     <br>
   </div>
-  <div class="roadmap">
+  <div class="roadmap" id="roadmap">
     <br>
     <br>
     <div class="container">
@@ -433,7 +435,7 @@
           </ul>
           <br>
         </div>
-        <a href="" style="font-size: 30px;" class="bt" data-aos="zoom-out" data-aos-duration="1000">DELUEXEPAPER</a>
+        <a href="" id="" style="font-size: 30px;" class="bt" data-aos="zoom-out" data-aos-duration="1000">DELUEXEPAPER</a>
         <br>
         <br>
         <br>
@@ -442,7 +444,7 @@
     <br>
     <br>
   </div>
-  <div class="how">
+  <div class="how" id="how">
     <br>
     <br>
     <div class="container">
@@ -483,7 +485,7 @@
     <br>
   </div>
   <!-- Footer -->
-  <footer style="text-align: center; font-size: 100px;padding: 40px;background-color: #55347b;">
+  <footer style="text-align: center; font-size: 100px;padding: 40px;background-color: #55347b;" id="footer">
     <div class="container">
       <div class="row">
         <div class="col-md-3"></div>
@@ -494,7 +496,7 @@
               <img src="img/object32x.png" class="card-img-top">
               <h6 style="color: rgb(242, 118, 247);">Founder | Lady DeeDee</h6>
               <p style="font-size: 14px; color: ivory;">Free to contact the team on telegram<br>
-                <a>
+                <a href="https://t.me/officialdeluxedoge">
                   <i style="font-size: 30px;" class="fab fa-telegram"></i>
                 </a>
               </p>
@@ -503,7 +505,7 @@
               <img src="img/6.png" class="card-img-top">
               <h6 style="color: rgb(242, 118, 247);">Marketer | Sir DeeDee</h6>
               <p style="font-size: 14px; color: ivory;">Free to contact the team on telegram<br>
-                <a>
+                <a href="https://t.me/officialdeluxedoge">
                   <i style="font-size: 30px;" class="fab fa-telegram"></i>
                 </a>
               </p>
