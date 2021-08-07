@@ -80,8 +80,7 @@
    }
        .card {
          border: 1px solid #75519b;
-         background-color: white;
-         background-image: linear-gradient(white, #f48af8);
+         background-color: rgb(243, 208, 235);
          padding: 20px;
          font-size: smaller;
          text-align: justify;
