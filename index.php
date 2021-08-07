@@ -233,7 +233,7 @@
                 <br>
                 <br>
                 <br>
-                   <h1 data-aos="fade-up" data-aos-duration="1000">What $DeeDee</h1>
+                   <h1 data-aos="fade-up" data-aos-duration="1000">What is $DeeDee</h1>
                   <hr class="hr">
                   <p data-aos="slide-up" data-aos-duration="1000">DeeDee is a BNB reflection token.</p>
                   <p data-aos="slide-up" data-aos-duration="1000">Simply hold $DeeDee tokens and get rewarded in BNB on every transaction!</p>
