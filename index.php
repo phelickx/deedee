@@ -435,7 +435,7 @@
           </ul>
           <br>
         </div>
-        <a href="" id="" style="font-size: 30px;" class="bt" data-aos="zoom-out" data-aos-duration="1000">DELUEXEPAPER</a>
+        <a href="img/deluxe.pdf" id="" style="font-size: 30px;" class="bt" data-aos="zoom-out" data-aos-duration="1000">DELUEXEPAPER</a>
         <br>
         <br>
         <br>
